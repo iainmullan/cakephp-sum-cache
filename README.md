@@ -1,5 +1,4 @@
-
-Cakephp sumCache
+CakePHP sumCache
 =================
 
 Updates the sumCache fields of belongsTo associations after a save or delete operation
